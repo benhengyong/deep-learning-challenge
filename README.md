@@ -22,6 +22,7 @@ Feature variables such as APPLICATION_TYPE and CLASSIFICATION contained extremel
 Other data columns such as EIN and NAME were initially dropped as they were not considered to add additional information that is already provided by other features.
 
 **Compiling, Training, and Evaluating the Model**
+
 After preprocessing the data, scaling and plitting into training and test sets, neural network models were created and evaluated by loss and accuracy.
 
 The first neural network model comprised of 3 hidden layers with 80, 30 and 30 nodes respectively alongside relu and sigmoid activation functions. The results of this neural network model are:
