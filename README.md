@@ -47,4 +47,4 @@ The last model tested the opposite hypothesis, that there was not enough data to
 Loss: 0.5171756148338318, Accuracy: 0.7498542070388794
 
 ### Summary
-In Conclusion using keras sequential modelling, an accuracy of 74.99% was achieved in correctly classifying whether lending money was used effectively by various organizations. There was limitations from the dataset and additional features will aid in improving the accuracy of the model further, alongisde using models such as Functional rather than sequential that provide more flexibility to connect to more layers. 
+In Conclusion using keras sequential modelling, an accuracy of 74.99% was achieved in correctly classifying whether lending money was used effectively by various organizations. There was limitations from the dataset and additional features will aid in improving the accuracy of the model further, alongisde using models such as Functional rather than Sequential that provide more flexibility to connect to more layers. 
